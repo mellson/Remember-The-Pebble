@@ -1,0 +1,3 @@
+[0m[[0mdebug[0m] [0mjars to process for resources: List()[0m
+[0m[[0mdebug[0m] [0mbldr.packageApk(/Users/anbh/Desktop/Git/Remember The Pebble/bin/resources-debug.ap_, /Users/anbh/Desktop/Git/Remember The Pebble/bin/classes.dex, List(), null, /Users/anbh/Desktop/Git/Remember The Pebble/bin/jni, true, DefaultSigningConfig{storeFile=/Users/anbh/.android/debug.keystore, storePassword=android, keyAlias=AndroidDebugKey, keyPassword=android, storeType=jks}, /Users/anbh/Desktop/Git/Remember The Pebble/bin/Remember The Pebble-debug-unaligned.apk)[0m
+[0m[[0minfo[0m] [0mPackaged: Remember The Pebble-debug-unaligned.apk (13.73KB)[0m

@@ -1,0 +1,57 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(/Users/anbh/Desktop/Git/Remember The Pebble/gen/dk/itu/rtp/R.java, /Users/anbh/Desktop/Git/Remember The Pebble/gen/dk/itu/rtp/BuildConfig.java, /Users/anbh/Desktop/Git/Remember The Pebble/src/dk/itu/rtp/JavaActivity.java, /Users/anbh/Desktop/Git/Remember The Pebble/gen/dk/itu/rtp/TR.scala, /Users/anbh/Desktop/Git/Remember The Pebble/src/dk/itu/rtp/ScalaHelpers.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mModified external sources: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/Users/anbh/Desktop/Git/Remember The Pebble/gen/dk/itu/rtp/R.java, /Users/anbh/Desktop/Git/Remember The Pebble/gen/dk/itu/rtp/BuildConfig.java, /Users/anbh/Desktop/Git/Remember The Pebble/src/dk/itu/rtp/JavaActivity.java, /Users/anbh/Desktop/Git/Remember The Pebble/gen/dk/itu/rtp/TR.scala, /Users/anbh/Desktop/Git/Remember The Pebble/src/dk/itu/rtp/ScalaHelpers.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/anbh/Desktop/Git/Remember The Pebble/gen/dk/itu/rtp/R.java, /Users/anbh/Desktop/Git/Remember The Pebble/gen/dk/itu/rtp/BuildConfig.java, /Users/anbh/Desktop/Git/Remember The Pebble/src/dk/itu/rtp/JavaActivity.java, /Users/anbh/Desktop/Git/Remember The Pebble/gen/dk/itu/rtp/TR.scala, /Users/anbh/Desktop/Git/Remember The Pebble/src/dk/itu/rtp/ScalaHelpers.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 5 sources: invalidated sources (5) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 2 Scala sources and 3 Java sources to /Users/anbh/Desktop/Git/Remember The Pebble/bin/classes...[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 655e23b5, interfacing (CompilerInterface) with Scala compiler version 2.10.3[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Users/anbh/android sdk/platforms/android-14/android.jar:/Users/anbh/android sdk/tools/support/annotations.jar[0m
+[0m[[0mdebug[0m] [0m	-javabootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Users/anbh/android sdk/platforms/android-14/android.jar:/Users/anbh/android sdk/tools/support/annotations.jar[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	/Users/anbh/Desktop/Git/Remember The Pebble/bin/classes[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre/lib/JObjC.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre/classes:/Users/anbh/.sbt/boot/scala-2.10.3/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/anbh/Desktop/Git/Remember The Pebble/bin/classes[0m
+[0m[[0mdebug[0m] [0mScala compilation took 3.4699 s[0m
+[0m[[0mdebug[0m] [0mCalling Javac with arguments:[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Users/anbh/android sdk/platforms/android-14/android.jar:/Users/anbh/android sdk/tools/support/annotations.jar[0m
+[0m[[0mdebug[0m] [0m	-source[0m
+[0m[[0mdebug[0m] [0m	1.5[0m
+[0m[[0mdebug[0m] [0m	-target[0m
+[0m[[0mdebug[0m] [0m	1.5[0m
+[0m[[0mdebug[0m] [0m	-g[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	/Users/anbh/Desktop/Git/Remember The Pebble/bin/classes[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/anbh/Desktop/Git/Remember The Pebble/bin/classes:/Users/anbh/.sbt/boot/scala-2.10.3/lib/scala-library.jar:/Users/anbh/.sbt/boot/scala-2.10.3/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/anbh/Desktop/Git/Remember The Pebble/gen/dk/itu/rtp/BuildConfig.java[0m
+[0m[[0mdebug[0m] [0m	/Users/anbh/Desktop/Git/Remember The Pebble/gen/dk/itu/rtp/R.java[0m
+[0m[[0mdebug[0m] [0m	/Users/anbh/Desktop/Git/Remember The Pebble/src/dk/itu/rtp/JavaActivity.java[0m
+[0m[[0mdebug[0m] [0mAttempting to call javac directly...[0m
+[0m[[0mdebug[0m] [0mcom.sun.tools.javac.Main not found with appropriate method signature; forking javac instead[0m
+[0m[[0mdebug[0m] [0mForking javac: javac @/var/folders/s7/hrvzb15s6j765k4btf2sl01r0000gn/T/sbt_cac57879/argfile[0m
+[0m[[0mdebug[0m] [0mjavac returned exit code: 0[0m
+[0m[[0mdebug[0m] [0mJava compilation took 0.661474 s[0m
+[0m[[0mdebug[0m] [0mJava compilation and analysis took 0.780329 s[0m
+[0m[[0mdebug[0m] [0mStep 2 changed sources and immdediate dependencies:[0m
+[0m[[0mdebug[0m] [0m	Set(/Users/anbh/Desktop/Git/Remember The Pebble/gen/dk/itu/rtp/R.java, /Users/anbh/Desktop/Git/Remember The Pebble/gen/dk/itu/rtp/BuildConfig.java, /Users/anbh/Desktop/Git/Remember The Pebble/src/dk/itu/rtp/JavaActivity.java, /Users/anbh/Desktop/Git/Remember The Pebble/gen/dk/itu/rtp/TR.scala, /Users/anbh/Desktop/Git/Remember The Pebble/src/dk/itu/rtp/ScalaHelpers.scala)[0m
+[0m[[0mdebug[0m] [0mNon-trivial strongly connected components: [0m
+[0m[[0mdebug[0m] [0m	[0m
+[0m[[0mdebug[0m] [0mStep 2 invalidated sources:[0m
+[0m[[0mdebug[0m] [0m	Set(/Users/anbh/Desktop/Git/Remember The Pebble/gen/dk/itu/rtp/R.java, /Users/anbh/Desktop/Git/Remember The Pebble/gen/dk/itu/rtp/BuildConfig.java, /Users/anbh/Desktop/Git/Remember The Pebble/src/dk/itu/rtp/JavaActivity.java, /Users/anbh/Desktop/Git/Remember The Pebble/gen/dk/itu/rtp/TR.scala, /Users/anbh/Desktop/Git/Remember The Pebble/src/dk/itu/rtp/ScalaHelpers.scala)[0m

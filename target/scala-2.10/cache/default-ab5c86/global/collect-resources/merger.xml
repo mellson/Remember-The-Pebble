@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="/Users/anbh/Desktop/Git/Remember The Pebble/res" >
+        <source path="/Users/anbh/Desktop/Git/Remember The Pebble/res" >
+            <file
+                name="ic_launcher"
+                path="/Users/anbh/Desktop/Git/Remember The Pebble/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/anbh/Desktop/Git/Remember The Pebble/res/drawable-ldpi/ic_launcher.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/anbh/Desktop/Git/Remember The Pebble/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="main"
+                path="/Users/anbh/Desktop/Git/Remember The Pebble/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/Users/anbh/Desktop/Git/Remember The Pebble/res/values/strings.xml"
+                qualifiers="" >
+                <string name="app_name" >Remember The Pebble
+                </string>
+                <string name="hello" >Hello World, I am the Pebble Android App!
+                </string>
+            </file>
+        </source>
+    </dataSet>
+
+</merger>

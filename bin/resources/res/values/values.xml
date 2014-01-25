@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/anbh/Desktop/Git/Remember%20The%20Pebble/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">Remember The Pebble</string>
+    <string name="hello">Hello World, I am the Pebble Android App!</string>
+
+</resources>

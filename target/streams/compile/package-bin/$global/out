@@ -1,0 +1,53 @@
+[0m[[0minfo[0m] [0mPackaging /Users/anbh/Desktop/Git/Remember The Pebble/bin/classes.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	dk/itu/rtp/TypedResource.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/anbh/Desktop/Git/Remember The Pebble/bin/classes/dk/itu/rtp/TypedResource.class[0m
+[0m[[0mdebug[0m] [0m	dk/itu/rtp/TR.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/anbh/Desktop/Git/Remember The Pebble/bin/classes/dk/itu/rtp/TR.class[0m
+[0m[[0mdebug[0m] [0m	dk/itu/rtp/ScalaHelpers$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/anbh/Desktop/Git/Remember The Pebble/bin/classes/dk/itu/rtp/ScalaHelpers$.class[0m
+[0m[[0mdebug[0m] [0m	dk/itu/rtp/TypedResource$$anon$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/anbh/Desktop/Git/Remember The Pebble/bin/classes/dk/itu/rtp/TypedResource$$anon$1.class[0m
+[0m[[0mdebug[0m] [0m	dk/itu/rtp/TypedResource$$anon$3.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/anbh/Desktop/Git/Remember The Pebble/bin/classes/dk/itu/rtp/TypedResource$$anon$3.class[0m
+[0m[[0mdebug[0m] [0m	dk/itu/rtp/JavaActivity.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/anbh/Desktop/Git/Remember The Pebble/bin/classes/dk/itu/rtp/JavaActivity.class[0m
+[0m[[0mdebug[0m] [0m	dk/itu/rtp/R$layout.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/anbh/Desktop/Git/Remember The Pebble/bin/classes/dk/itu/rtp/R$layout.class[0m
+[0m[[0mdebug[0m] [0m	dk/itu/rtp/R$string.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/anbh/Desktop/Git/Remember The Pebble/bin/classes/dk/itu/rtp/R$string.class[0m
+[0m[[0mdebug[0m] [0m	dk/itu/rtp/TypedResource$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/anbh/Desktop/Git/Remember The Pebble/bin/classes/dk/itu/rtp/TypedResource$.class[0m
+[0m[[0mdebug[0m] [0m	dk/itu/rtp/TR$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/anbh/Desktop/Git/Remember The Pebble/bin/classes/dk/itu/rtp/TR$.class[0m
+[0m[[0mdebug[0m] [0m	dk/itu/rtp/TypedViewHolder.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/anbh/Desktop/Git/Remember The Pebble/bin/classes/dk/itu/rtp/TypedViewHolder.class[0m
+[0m[[0mdebug[0m] [0m	dk/itu[0m
+[0m[[0mdebug[0m] [0m	  /Users/anbh/Desktop/Git/Remember The Pebble/bin/classes/dk/itu[0m
+[0m[[0mdebug[0m] [0m	dk/itu/rtp/R$attr.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/anbh/Desktop/Git/Remember The Pebble/bin/classes/dk/itu/rtp/R$attr.class[0m
+[0m[[0mdebug[0m] [0m	dk/itu/rtp/R$drawable.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/anbh/Desktop/Git/Remember The Pebble/bin/classes/dk/itu/rtp/R$drawable.class[0m
+[0m[[0mdebug[0m] [0m	dk/itu/rtp/TypedLayoutInflater.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/anbh/Desktop/Git/Remember The Pebble/bin/classes/dk/itu/rtp/TypedLayoutInflater.class[0m
+[0m[[0mdebug[0m] [0m	dk/itu/rtp/TR$layout$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/anbh/Desktop/Git/Remember The Pebble/bin/classes/dk/itu/rtp/TR$layout$.class[0m
+[0m[[0mdebug[0m] [0m	dk/itu/rtp[0m
+[0m[[0mdebug[0m] [0m	  /Users/anbh/Desktop/Git/Remember The Pebble/bin/classes/dk/itu/rtp[0m
+[0m[[0mdebug[0m] [0m	dk/itu/rtp/R.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/anbh/Desktop/Git/Remember The Pebble/bin/classes/dk/itu/rtp/R.class[0m
+[0m[[0mdebug[0m] [0m	dk/itu/rtp/ScalaHelpers.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/anbh/Desktop/Git/Remember The Pebble/bin/classes/dk/itu/rtp/ScalaHelpers.class[0m
+[0m[[0mdebug[0m] [0m	dk/itu/rtp/BuildConfig.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/anbh/Desktop/Git/Remember The Pebble/bin/classes/dk/itu/rtp/BuildConfig.class[0m
+[0m[[0mdebug[0m] [0m	dk/itu/rtp/TypedViewHolder$class.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/anbh/Desktop/Git/Remember The Pebble/bin/classes/dk/itu/rtp/TypedViewHolder$class.class[0m
+[0m[[0mdebug[0m] [0m	dk/itu/rtp/TypedLayout$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/anbh/Desktop/Git/Remember The Pebble/bin/classes/dk/itu/rtp/TypedLayout$.class[0m
+[0m[[0mdebug[0m] [0m	dk/itu/rtp/TypedResource$$anon$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/anbh/Desktop/Git/Remember The Pebble/bin/classes/dk/itu/rtp/TypedResource$$anon$2.class[0m
+[0m[[0mdebug[0m] [0m	dk/itu/rtp/TypedLayout.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/anbh/Desktop/Git/Remember The Pebble/bin/classes/dk/itu/rtp/TypedLayout.class[0m
+[0m[[0mdebug[0m] [0m	dk[0m
+[0m[[0mdebug[0m] [0m	  /Users/anbh/Desktop/Git/Remember The Pebble/bin/classes/dk[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

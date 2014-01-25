@@ -1,0 +1,25 @@
+[0m[[0mdebug[0m] [0mcommand: /Users/anbh/android sdk/build-tools/19.0.1/aapt s -i /Users/anbh/Desktop/Git/Remember The Pebble/res/drawable-mdpi/ic_launcher.png -o /Users/anbh/Desktop/Git/Remember The Pebble/bin/resources/res/drawable-mdpi/ic_launcher.png[0m
+[0m[[0mdebug[0m] [0mcommand: /Users/anbh/android sdk/build-tools/19.0.1/aapt s -i /Users/anbh/Desktop/Git/Remember The Pebble/res/drawable-ldpi/ic_launcher.png -o /Users/anbh/Desktop/Git/Remember The Pebble/bin/resources/res/drawable-ldpi/ic_launcher.png[0m
+[0m[[0mdebug[0m] [0mcommand: /Users/anbh/android sdk/build-tools/19.0.1/aapt s -i /Users/anbh/Desktop/Git/Remember The Pebble/res/drawable-hdpi/ic_launcher.png -o /Users/anbh/Desktop/Git/Remember The Pebble/bin/resources/res/drawable-hdpi/ic_launcher.png[0m
+[0m[[0mdebug[0m] [0mCrunching single PNG file: /Users/anbh/Desktop/Git/Remember The Pebble/res/drawable-mdpi/ic_launcher.png[0m
+[0m[[0mdebug[0m] [0mCrunching single PNG file: /Users/anbh/Desktop/Git/Remember The Pebble/res/drawable-ldpi/ic_launcher.png[0m
+[0m[[0mdebug[0m] [0mCrunching single PNG file: /Users/anbh/Desktop/Git/Remember The Pebble/res/drawable-hdpi/ic_launcher.png[0m
+[0m[[0mdebug[0m] [0m	Output file: /Users/anbh/Desktop/Git/Remember The Pebble/bin/resources/res/drawable-mdpi/ic_launcher.png[0m
+[0m[[0mdebug[0m] [0m	Output file: /Users/anbh/Desktop/Git/Remember The Pebble/bin/resources/res/drawable-ldpi/ic_launcher.png[0m
+[0m[[0mdebug[0m] [0m	Output file: /Users/anbh/Desktop/Git/Remember The Pebble/bin/resources/res/drawable-hdpi/ic_launcher.png[0m
+[0m[[0mdebug[0m] [0mCustom package for R class: 'dk.itu.rtp'[0m
+[0m[[0mdebug[0m] [0mCustom package for R class: 'dk.itu.rtp'[0m
+[0m[[0mdebug[0m] [0mcommand: /Users/anbh/android sdk/build-tools/19.0.1/aapt package -f --no-crunch -I /Users/anbh/android sdk/platforms/android-14/android.jar -M /Users/anbh/Desktop/Git/Remember The Pebble/bin/AndroidManifest.xml -S /Users/anbh/Desktop/Git/Remember The Pebble/bin/resources/res -A /Users/anbh/Desktop/Git/Remember The Pebble/bin/assets -m -J /Users/anbh/Desktop/Git/Remember The Pebble/gen -G /Users/anbh/Desktop/Git/Remember The Pebble/bin/proguard.txt --debug-mode --custom-package dk.itu.rtp[0m
+[0m[[0mdebug[0m] [0mcommand: /Users/anbh/android sdk/build-tools/19.0.1/aapt package -f --no-crunch -I /Users/anbh/android sdk/platforms/android-14/android.jar -M /Users/anbh/Desktop/Git/Remember The Pebble/bin/AndroidManifest.xml -S /Users/anbh/Desktop/Git/Remember The Pebble/bin/resources/res -A /Users/anbh/Desktop/Git/Remember The Pebble/bin/assets -m -J /Users/anbh/Desktop/Git/Remember The Pebble/gen -F /Users/anbh/Desktop/Git/Remember The Pebble/bin/resources-debug.ap_ -G /Users/anbh/Desktop/Git/Remember The Pebble/bin/proguard.txt --debug-mode --custom-package dk.itu.rtp[0m
+[0m[[0mdebug[0m] [0mDex inputs: [/Users/anbh/Desktop/Git/Remember The Pebble/bin/classes.proguard.jar][0m
+[0m[[0mdebug[0m] [0mcommand: /Users/anbh/android sdk/build-tools/19.0.1/dx -JXmx1024m --dex --incremental --no-strict --output /Users/anbh/Desktop/Git/Remember The Pebble/bin/classes.dex /Users/anbh/Desktop/Git/Remember The Pebble/bin/classes.proguard.jar[0m
+[0m[[0mdebug[0m] [0mPackaging Remember The Pebble-debug-unaligned.apk[0m
+[0m[[0mdebug[0m] [0m/Users/anbh/Desktop/Git/Remember The Pebble/bin/resources-debug.ap_:[0m
+[0m[[0mdebug[0m] [0m=> res/layout/main.xml[0m
+[0m[[0mdebug[0m] [0m=> AndroidManifest.xml[0m
+[0m[[0mdebug[0m] [0m=> resources.arsc[0m
+[0m[[0mdebug[0m] [0m=> res/drawable-hdpi/ic_launcher.png[0m
+[0m[[0mdebug[0m] [0m=> res/drawable-ldpi/ic_launcher.png[0m
+[0m[[0mdebug[0m] [0m=> res/drawable-mdpi/ic_launcher.png[0m
+[0m[[0mdebug[0m] [0m/Users/anbh/Desktop/Git/Remember The Pebble/bin/classes.dex => classes.dex[0m
+[0m[[0mdebug[0m] [0mNative folder: /Users/anbh/Desktop/Git/Remember The Pebble/bin/jni[0m

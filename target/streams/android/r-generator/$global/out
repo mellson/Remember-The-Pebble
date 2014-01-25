@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0mGenerating R.java[0m
+[0m[[0mdebug[0m] [0mAll libs: List()[0m
+[0m[[0mdebug[0m] [0mAll packages: List()[0m
+[0m[[0mdebug[0m] [0mpackageForR: dk.itu.rtp[0m
+[0m[[0mdebug[0m] [0mproguard.txt: /Users/anbh/Desktop/Git/Remember The Pebble/bin/proguard.txt[0m
+[0m[[0mdebug[0m] [0mIn modified: Set(/Users/anbh/Desktop/Git/Remember The Pebble/bin/assets, /Users/anbh/Desktop/Git/Remember The Pebble/bin/resources/res/layout/main.xml, /Users/anbh/Desktop/Git/Remember The Pebble/bin/resources/res/drawable-mdpi, /Users/anbh/Desktop/Git/Remember The Pebble/bin/resources/res/layout, /Users/anbh/Desktop/Git/Remember The Pebble/bin/resources/res/values, /Users/anbh/Desktop/Git/Remember The Pebble/bin/AndroidManifest.xml, /Users/anbh/Desktop/Git/Remember The Pebble/bin/resources/res, /Users/anbh/Desktop/Git/Remember The Pebble/bin/resources/res/drawable-ldpi, /Users/anbh/Desktop/Git/Remember The Pebble/bin/resources/res/values/values.xml, /Users/anbh/Desktop/Git/Remember The Pebble/bin/resources/res/drawable-hdpi, /Users/anbh/Desktop/Git/Remember The Pebble/bin/resources/res/drawable-mdpi/ic_launcher.png, /Users/anbh/Desktop/Git/Remember The Pebble/bin/resources/res/drawable-hdpi/ic_launcher.png, /Users/anbh/Desktop/Git/Remember The Pebble/bin/resources/res/drawable-ldpi/ic_launcher.png)[0m
+[0m[[0mdebug[0m] [0mInRemoved: Set()[0m
+[0m[[0mdebug[0m] [0mOut checked: Set()[0m
+[0m[[0mdebug[0m] [0mOut modified: Set()[0m

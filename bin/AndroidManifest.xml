@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest package="dk.itu.rtp" android:versionName="1.0" android:versionCode="1" xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-sdk android:targetSdkVersion="14" android:minSdkVersion="14"></uses-sdk>
+    <application android:label="@string/app_name" android:icon="@drawable/ic_launcher">
+        <activity android:name="dk.itu.rtp.JavaActivity" android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"></action>
+                <category android:name="android.intent.category.LAUNCHER"></category>
+            </intent-filter>
+        </activity>
+    <uses-library android:name="android.test.runner"></uses-library></application>
+<instrumentation android:name="android.test.InstrumentationTestRunner" android:label="Test Runner" android:targetPackage="dk.itu.rtp"></instrumentation></manifest>
